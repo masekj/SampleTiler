@@ -13,3 +13,4 @@ The project is also runnable on Binder:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/masekj/SampleTiler/HEAD?labpath=Numerical_example.ipynb) Numerical_example.ipynb 
 
+[![DOI](https://zenodo.org/badge/671044788.svg)](https://zenodo.org/badge/latestdoi/671044788)
